@@ -1,0 +1,46 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-ruda: Ruda;
+  --font-roboto: Roboto;
+  --font-bai-jamjuree: "Bai Jamjuree";
+  --font-inter: Inter;
+
+  /* font sizes */
+  --font-size-5xl: 24px;
+  --font-size-lg: 18px;
+  --font-size-61xl: 80px;
+  --font-size-base: 16px;
+  --font-size-xl: 20px;
+  --font-size-6xl: 25px;
+  --font-size-mini: 15px;
+  --font-size-xs: 12px;
+  --font-size-2xs: 11px;
+  --font-size-smi: 13px;
+  --font-size-4xs: 9px;
+  --font-size-smi-6: 12.6px;
+  --font-size-sm: 14px;
+
+  /* Colors */
+  --color-gray-100: #718176;
+  --color-gray-200: #222223;
+  --color-gray-300: #222;
+  --color-gray-400: #191d23;
+  --color-gray-500: #17181a;
+  --color-black: #000;
+  --color-dimgray-100: #727272;
+  --color-dimgray-200: #5f5f64;
+  --color-white: #fff;
+  --color-lightslategray: #8e99ab;
+  --color-darkgray: #b1b4b8;
+  --color-darkslategray: #404041;
+
+  /* Border radiuses */
+  --br-lgi: 19px;
+  --br-lg: 18px;
+  --br-mini-4: 14.4px;
+}
